@@ -1,5 +1,9 @@
 # VTA Panel
 
+VTA Panel is a hosting control panel for Linux servers.
+
+One command installs the panel. The administrator then chooses what to set up, either by answering prompts in the terminal or in a browser-based setup wizard. When installation finishes, the panel runs as a service.
+
 Hosted release binaries for [VTA Panel](https://vtapanel.com).
 
 ## Install
